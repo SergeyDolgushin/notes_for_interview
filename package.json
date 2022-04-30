@@ -1,0 +1,20 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test Work",
+  "devDependencies": {
+    "dayjs": "^1.11.1",
+    "eslint": "^8.13.0",
+    "eslint-config-htmlacademy": "^5.1.2",
+    "jsonfile": "^6.1.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint js/"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  }
+}
